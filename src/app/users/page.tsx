@@ -22,7 +22,7 @@ export default async function DataBase()
           <tr>
             <th className='text-black'>ID.</th>
             <th className='text-black'>Name.</th>
-            <th className='text-black'>Status.</th>
+            <th className='text-black'>Karena.</th>
             <th className='text-black'>Akibat.</th>
           </tr>
         </thead>
